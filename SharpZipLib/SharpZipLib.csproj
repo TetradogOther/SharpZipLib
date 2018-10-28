@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>port to .netstandard2.0</Description>
+    <Copyright>SharpZipLib</Copyright>
+    <PackageLicenseUrl>https://github.com/TetradogOther/SharpZipLib/blob/master/LICENSE.txt</PackageLicenseUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageProjectUrl>https://github.com/TetradogOther/SharpZipLib/</PackageProjectUrl>
+    <PackageId>SharpZipLib.Port</PackageId>
+    <Authors>SharpZipLib</Authors>
+    <Product>SharpZipLib.Port</Product>
+    <Company>SharpZipLib</Company>
+  </PropertyGroup>
+
+</Project>
